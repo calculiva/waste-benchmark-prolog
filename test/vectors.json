@@ -1,0 +1,2104 @@
+{
+ "generated_from": "site/public/data/waste-study/summary.csv",
+ "dataset_version": "1.0.0",
+ "attribution": "Calculiva plank waste study v1.0.0, doi:10.7910/DVN/8VL3MW, https://calculiva.com/data-sources/#waste-study",
+ "count": 42,
+ "allowances": [
+  5,
+  8,
+  10,
+  15
+ ],
+ "rows": [
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "0",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": true,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    13.4,
+    14.929,
+    50.588
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1028,
+     "exact": 74,
+     "excess": 267,
+     "short_pct": 75.1,
+     "excess_pct": 19.5
+    },
+    {
+     "allowance": 8,
+     "short": 866,
+     "exact": 77,
+     "excess": 426,
+     "short_pct": 63.3,
+     "excess_pct": 31.1
+    },
+    {
+     "allowance": 10,
+     "short": 772,
+     "exact": 63,
+     "excess": 534,
+     "short_pct": 56.4,
+     "excess_pct": 39.0
+    },
+    {
+     "allowance": 15,
+     "short": 530,
+     "exact": 70,
+     "excess": 769,
+     "short_pct": 38.7,
+     "excess_pct": 56.2
+    }
+   ]
+  },
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "0",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": true,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    13.4,
+    14.929,
+    50.588
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1028,
+     "exact": 74,
+     "excess": 267,
+     "short_pct": 75.1,
+     "excess_pct": 19.5
+    },
+    {
+     "allowance": 8,
+     "short": 866,
+     "exact": 77,
+     "excess": 426,
+     "short_pct": 63.3,
+     "excess_pct": 31.1
+    },
+    {
+     "allowance": 10,
+     "short": 772,
+     "exact": 63,
+     "excess": 534,
+     "short_pct": 56.4,
+     "excess_pct": 39.0
+    },
+    {
+     "allowance": 15,
+     "short": 530,
+     "exact": 70,
+     "excess": 769,
+     "short_pct": 38.7,
+     "excess_pct": 56.2
+    }
+   ]
+  },
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    6.667,
+    7.826,
+    31.282
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 730,
+     "exact": 141,
+     "excess": 498,
+     "short_pct": 53.3,
+     "excess_pct": 36.4
+    },
+    {
+     "allowance": 8,
+     "short": 447,
+     "exact": 124,
+     "excess": 798,
+     "short_pct": 32.7,
+     "excess_pct": 58.3
+    },
+    {
+     "allowance": 10,
+     "short": 303,
+     "exact": 99,
+     "excess": 967,
+     "short_pct": 22.1,
+     "excess_pct": 70.6
+    },
+    {
+     "allowance": 15,
+     "short": 104,
+     "exact": 54,
+     "excess": 1211,
+     "short_pct": 7.6,
+     "excess_pct": 88.5
+    }
+   ]
+  },
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.128,
+    10.458,
+    12.128,
+    42.222
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1098,
+     "exact": 116,
+     "excess": 155,
+     "short_pct": 80.2,
+     "excess_pct": 11.3
+    },
+    {
+     "allowance": 8,
+     "short": 803,
+     "exact": 135,
+     "excess": 431,
+     "short_pct": 58.7,
+     "excess_pct": 31.5
+    },
+    {
+     "allowance": 10,
+     "short": 612,
+     "exact": 124,
+     "excess": 633,
+     "short_pct": 44.7,
+     "excess_pct": 46.2
+    },
+    {
+     "allowance": 15,
+     "short": 271,
+     "exact": 83,
+     "excess": 1015,
+     "short_pct": 19.8,
+     "excess_pct": 74.1
+    }
+   ]
+  },
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "1/2",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    7.407,
+    20.43,
+    23.269,
+    64.103
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1354,
+     "exact": 12,
+     "excess": 3,
+     "short_pct": 98.9,
+     "excess_pct": 0.2
+    },
+    {
+     "allowance": 10,
+     "short": 1298,
+     "exact": 34,
+     "excess": 37,
+     "short_pct": 94.8,
+     "excess_pct": 2.7
+    },
+    {
+     "allowance": 15,
+     "short": 980,
+     "exact": 86,
+     "excess": 303,
+     "short_pct": 71.6,
+     "excess_pct": 22.1
+    }
+   ]
+  },
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    6.043,
+    6.574,
+    21.905
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 617,
+     "exact": 208,
+     "excess": 544,
+     "short_pct": 45.1,
+     "excess_pct": 39.7
+    },
+    {
+     "allowance": 8,
+     "short": 279,
+     "exact": 155,
+     "excess": 935,
+     "short_pct": 20.4,
+     "excess_pct": 68.3
+    },
+    {
+     "allowance": 10,
+     "short": 162,
+     "exact": 94,
+     "excess": 1113,
+     "short_pct": 11.8,
+     "excess_pct": 81.3
+    },
+    {
+     "allowance": 15,
+     "short": 13,
+     "exact": 50,
+     "excess": 1306,
+     "short_pct": 0.9,
+     "excess_pct": 95.4
+    }
+   ]
+  },
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.741,
+    7.029,
+    7.904,
+    24.444
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 793,
+     "exact": 207,
+     "excess": 369,
+     "short_pct": 57.9,
+     "excess_pct": 27.0
+    },
+    {
+     "allowance": 8,
+     "short": 400,
+     "exact": 178,
+     "excess": 791,
+     "short_pct": 29.2,
+     "excess_pct": 57.8
+    },
+    {
+     "allowance": 10,
+     "short": 245,
+     "exact": 116,
+     "excess": 1008,
+     "short_pct": 17.9,
+     "excess_pct": 73.6
+    },
+    {
+     "allowance": 15,
+     "short": 39,
+     "exact": 69,
+     "excess": 1261,
+     "short_pct": 2.8,
+     "excess_pct": 92.1
+    }
+   ]
+  },
+  {
+   "format_id": "48x8in",
+   "format_origin": "calculator_preset",
+   "offset": "1/3",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    11.111,
+    23.892,
+    27.298,
+    65.926
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1367,
+     "exact": 2,
+     "excess": 0,
+     "short_pct": 99.9,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 15,
+     "short": 1210,
+     "exact": 54,
+     "excess": 105,
+     "short_pct": 88.4,
+     "excess_pct": 7.7
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "0",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": true,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    13.636,
+    15.107,
+    51.261
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1044,
+     "exact": 66,
+     "excess": 259,
+     "short_pct": 76.3,
+     "excess_pct": 18.9
+    },
+    {
+     "allowance": 8,
+     "short": 880,
+     "exact": 67,
+     "excess": 422,
+     "short_pct": 64.3,
+     "excess_pct": 30.8
+    },
+    {
+     "allowance": 10,
+     "short": 782,
+     "exact": 59,
+     "excess": 528,
+     "short_pct": 57.1,
+     "excess_pct": 38.6
+    },
+    {
+     "allowance": 15,
+     "short": 540,
+     "exact": 66,
+     "excess": 763,
+     "short_pct": 39.4,
+     "excess_pct": 55.7
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "0",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": true,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    13.636,
+    15.107,
+    51.261
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1044,
+     "exact": 66,
+     "excess": 259,
+     "short_pct": 76.3,
+     "excess_pct": 18.9
+    },
+    {
+     "allowance": 8,
+     "short": 880,
+     "exact": 67,
+     "excess": 422,
+     "short_pct": 64.3,
+     "excess_pct": 30.8
+    },
+    {
+     "allowance": 10,
+     "short": 782,
+     "exact": 59,
+     "excess": 528,
+     "short_pct": 57.1,
+     "excess_pct": 38.6
+    },
+    {
+     "allowance": 15,
+     "short": 540,
+     "exact": 66,
+     "excess": 763,
+     "short_pct": 39.4,
+     "excess_pct": 55.7
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    7.023,
+    7.946,
+    31.868
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 762,
+     "exact": 118,
+     "excess": 489,
+     "short_pct": 55.7,
+     "excess_pct": 35.7
+    },
+    {
+     "allowance": 8,
+     "short": 467,
+     "exact": 111,
+     "excess": 791,
+     "short_pct": 34.1,
+     "excess_pct": 57.8
+    },
+    {
+     "allowance": 10,
+     "short": 310,
+     "exact": 101,
+     "excess": 958,
+     "short_pct": 22.6,
+     "excess_pct": 70.0
+    },
+    {
+     "allowance": 15,
+     "short": 105,
+     "exact": 56,
+     "excess": 1208,
+     "short_pct": 7.7,
+     "excess_pct": 88.2
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.128,
+    10.577,
+    12.283,
+    42.857
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1128,
+     "exact": 88,
+     "excess": 153,
+     "short_pct": 82.4,
+     "excess_pct": 11.2
+    },
+    {
+     "allowance": 8,
+     "short": 828,
+     "exact": 119,
+     "excess": 422,
+     "short_pct": 60.5,
+     "excess_pct": 30.8
+    },
+    {
+     "allowance": 10,
+     "short": 623,
+     "exact": 128,
+     "excess": 618,
+     "short_pct": 45.5,
+     "excess_pct": 45.1
+    },
+    {
+     "allowance": 15,
+     "short": 279,
+     "exact": 83,
+     "excess": 1007,
+     "short_pct": 20.4,
+     "excess_pct": 73.6
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "1/2",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    8.333,
+    20.732,
+    23.515,
+    64.835
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1360,
+     "exact": 9,
+     "excess": 0,
+     "short_pct": 99.3,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1308,
+     "exact": 31,
+     "excess": 30,
+     "short_pct": 95.5,
+     "excess_pct": 2.2
+    },
+    {
+     "allowance": 15,
+     "short": 1008,
+     "exact": 69,
+     "excess": 292,
+     "short_pct": 73.6,
+     "excess_pct": 21.3
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    6.101,
+    6.799,
+    22.449
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 666,
+     "exact": 182,
+     "excess": 521,
+     "short_pct": 48.6,
+     "excess_pct": 38.1
+    },
+    {
+     "allowance": 8,
+     "short": 309,
+     "exact": 147,
+     "excess": 913,
+     "short_pct": 22.6,
+     "excess_pct": 66.7
+    },
+    {
+     "allowance": 10,
+     "short": 174,
+     "exact": 108,
+     "excess": 1087,
+     "short_pct": 12.7,
+     "excess_pct": 79.4
+    },
+    {
+     "allowance": 15,
+     "short": 14,
+     "exact": 55,
+     "excess": 1300,
+     "short_pct": 1.0,
+     "excess_pct": 95.0
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.741,
+    7.372,
+    8.13,
+    25.0
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 845,
+     "exact": 173,
+     "excess": 351,
+     "short_pct": 61.7,
+     "excess_pct": 25.6
+    },
+    {
+     "allowance": 8,
+     "short": 432,
+     "exact": 168,
+     "excess": 769,
+     "short_pct": 31.6,
+     "excess_pct": 56.2
+    },
+    {
+     "allowance": 10,
+     "short": 261,
+     "exact": 127,
+     "excess": 981,
+     "short_pct": 19.1,
+     "excess_pct": 71.7
+    },
+    {
+     "allowance": 15,
+     "short": 46,
+     "exact": 68,
+     "excess": 1255,
+     "short_pct": 3.4,
+     "excess_pct": 91.7
+    }
+   ]
+  },
+  {
+   "format_id": "48x7.5in",
+   "format_origin": "calculator_preset",
+   "offset": "1/3",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    10.417,
+    24.0,
+    27.451,
+    66.667
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1367,
+     "exact": 2,
+     "excess": 0,
+     "short_pct": 99.9,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 15,
+     "short": 1222,
+     "exact": 46,
+     "excess": 101,
+     "short_pct": 89.3,
+     "excess_pct": 7.4
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "0",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": true,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    12.493,
+    14.327,
+    47.059
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1028,
+     "exact": 44,
+     "excess": 297,
+     "short_pct": 75.1,
+     "excess_pct": 21.7
+    },
+    {
+     "allowance": 8,
+     "short": 863,
+     "exact": 44,
+     "excess": 462,
+     "short_pct": 63.0,
+     "excess_pct": 33.7
+    },
+    {
+     "allowance": 10,
+     "short": 765,
+     "exact": 41,
+     "excess": 563,
+     "short_pct": 55.9,
+     "excess_pct": 41.1
+    },
+    {
+     "allowance": 15,
+     "short": 516,
+     "exact": 63,
+     "excess": 790,
+     "short_pct": 37.7,
+     "excess_pct": 57.7
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "0",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": true,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    12.493,
+    14.327,
+    47.059
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1028,
+     "exact": 44,
+     "excess": 297,
+     "short_pct": 75.1,
+     "excess_pct": 21.7
+    },
+    {
+     "allowance": 8,
+     "short": 863,
+     "exact": 44,
+     "excess": 462,
+     "short_pct": 63.0,
+     "excess_pct": 33.7
+    },
+    {
+     "allowance": 10,
+     "short": 765,
+     "exact": 41,
+     "excess": 563,
+     "short_pct": 55.9,
+     "excess_pct": 41.1
+    },
+    {
+     "allowance": 15,
+     "short": 516,
+     "exact": 63,
+     "excess": 790,
+     "short_pct": 37.7,
+     "excess_pct": 57.7
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    6.28,
+    7.176,
+    28.205
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 729,
+     "exact": 77,
+     "excess": 563,
+     "short_pct": 53.3,
+     "excess_pct": 41.1
+    },
+    {
+     "allowance": 8,
+     "short": 429,
+     "exact": 75,
+     "excess": 865,
+     "short_pct": 31.3,
+     "excess_pct": 63.2
+    },
+    {
+     "allowance": 10,
+     "short": 285,
+     "exact": 61,
+     "excess": 1023,
+     "short_pct": 20.8,
+     "excess_pct": 74.7
+    },
+    {
+     "allowance": 15,
+     "short": 94,
+     "exact": 40,
+     "excess": 1235,
+     "short_pct": 6.9,
+     "excess_pct": 90.2
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.128,
+    9.866,
+    11.507,
+    38.889
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1099,
+     "exact": 74,
+     "excess": 196,
+     "short_pct": 80.3,
+     "excess_pct": 14.3
+    },
+    {
+     "allowance": 8,
+     "short": 793,
+     "exact": 81,
+     "excess": 495,
+     "short_pct": 57.9,
+     "excess_pct": 36.2
+    },
+    {
+     "allowance": 10,
+     "short": 590,
+     "exact": 87,
+     "excess": 692,
+     "short_pct": 43.1,
+     "excess_pct": 50.5
+    },
+    {
+     "allowance": 15,
+     "short": 259,
+     "exact": 57,
+     "excess": 1053,
+     "short_pct": 18.9,
+     "excess_pct": 76.9
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "1/2",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    8.333,
+    20.0,
+    22.723,
+    60.256
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1363,
+     "exact": 6,
+     "excess": 0,
+     "short_pct": 99.6,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1302,
+     "exact": 28,
+     "excess": 39,
+     "short_pct": 95.1,
+     "excess_pct": 2.8
+    },
+    {
+     "allowance": 15,
+     "short": 984,
+     "exact": 48,
+     "excess": 337,
+     "short_pct": 71.9,
+     "excess_pct": 24.6
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    5.263,
+    5.962,
+    19.048
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 608,
+     "exact": 129,
+     "excess": 632,
+     "short_pct": 44.4,
+     "excess_pct": 46.2
+    },
+    {
+     "allowance": 8,
+     "short": 254,
+     "exact": 96,
+     "excess": 1019,
+     "short_pct": 18.6,
+     "excess_pct": 74.4
+    },
+    {
+     "allowance": 10,
+     "short": 149,
+     "exact": 55,
+     "excess": 1165,
+     "short_pct": 10.9,
+     "excess_pct": 85.1
+    },
+    {
+     "allowance": 15,
+     "short": 8,
+     "exact": 35,
+     "excess": 1326,
+     "short_pct": 0.6,
+     "excess_pct": 96.9
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.741,
+    6.667,
+    7.292,
+    22.396
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 791,
+     "exact": 131,
+     "excess": 447,
+     "short_pct": 57.8,
+     "excess_pct": 32.7
+    },
+    {
+     "allowance": 8,
+     "short": 371,
+     "exact": 111,
+     "excess": 887,
+     "short_pct": 27.1,
+     "excess_pct": 64.8
+    },
+    {
+     "allowance": 10,
+     "short": 228,
+     "exact": 68,
+     "excess": 1073,
+     "short_pct": 16.7,
+     "excess_pct": 78.4
+    },
+    {
+     "allowance": 15,
+     "short": 43,
+     "exact": 40,
+     "excess": 1286,
+     "short_pct": 3.1,
+     "excess_pct": 93.9
+    }
+   ]
+  },
+  {
+   "format_id": "48x5in",
+   "format_origin": "register_observation",
+   "offset": "1/3",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    11.111,
+    23.167,
+    26.704,
+    63.194
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 15,
+     "short": 1209,
+     "exact": 38,
+     "excess": 122,
+     "short_pct": 88.3,
+     "excess_pct": 8.9
+    }
+   ]
+  },
+  {
+   "format_id": "36x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    5.281,
+    5.958,
+    24.26
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 612,
+     "exact": 123,
+     "excess": 634,
+     "short_pct": 44.7,
+     "excess_pct": 46.3
+    },
+    {
+     "allowance": 8,
+     "short": 276,
+     "exact": 97,
+     "excess": 996,
+     "short_pct": 20.2,
+     "excess_pct": 72.8
+    },
+    {
+     "allowance": 10,
+     "short": 155,
+     "exact": 70,
+     "excess": 1144,
+     "short_pct": 11.3,
+     "excess_pct": 83.6
+    },
+    {
+     "allowance": 15,
+     "short": 36,
+     "exact": 27,
+     "excess": 1306,
+     "short_pct": 2.6,
+     "excess_pct": 95.4
+    }
+   ]
+  },
+  {
+   "format_id": "36x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.128,
+    8.974,
+    10.143,
+    33.929
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1083,
+     "exact": 92,
+     "excess": 194,
+     "short_pct": 79.1,
+     "excess_pct": 14.2
+    },
+    {
+     "allowance": 8,
+     "short": 677,
+     "exact": 122,
+     "excess": 570,
+     "short_pct": 49.5,
+     "excess_pct": 41.6
+    },
+    {
+     "allowance": 10,
+     "short": 456,
+     "exact": 111,
+     "excess": 802,
+     "short_pct": 33.3,
+     "excess_pct": 58.6
+    },
+    {
+     "allowance": 15,
+     "short": 173,
+     "exact": 55,
+     "excess": 1141,
+     "short_pct": 12.6,
+     "excess_pct": 83.3
+    }
+   ]
+  },
+  {
+   "format_id": "36x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    6.25,
+    15.741,
+    17.635,
+    48.352
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1284,
+     "exact": 30,
+     "excess": 55,
+     "short_pct": 93.8,
+     "excess_pct": 4.0
+    },
+    {
+     "allowance": 10,
+     "short": 1132,
+     "exact": 63,
+     "excess": 174,
+     "short_pct": 82.7,
+     "excess_pct": 12.7
+    },
+    {
+     "allowance": 15,
+     "short": 663,
+     "exact": 83,
+     "excess": 623,
+     "short_pct": 48.4,
+     "excess_pct": 45.5
+    }
+   ]
+  },
+  {
+   "format_id": "36x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    3.687,
+    4.153,
+    15.385
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 328,
+     "exact": 156,
+     "excess": 885,
+     "short_pct": 24.0,
+     "excess_pct": 64.6
+    },
+    {
+     "allowance": 8,
+     "short": 70,
+     "exact": 83,
+     "excess": 1216,
+     "short_pct": 5.1,
+     "excess_pct": 88.8
+    },
+    {
+     "allowance": 10,
+     "short": 13,
+     "exact": 48,
+     "excess": 1308,
+     "short_pct": 0.9,
+     "excess_pct": 95.5
+    },
+    {
+     "allowance": 15,
+     "short": 0,
+     "exact": 5,
+     "excess": 1364,
+     "short_pct": 0.0,
+     "excess_pct": 99.6
+    }
+   ]
+  },
+  {
+   "format_id": "36x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.128,
+    7.313,
+    8.149,
+    25.0
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 942,
+     "exact": 146,
+     "excess": 281,
+     "short_pct": 68.8,
+     "excess_pct": 20.5
+    },
+    {
+     "allowance": 8,
+     "short": 429,
+     "exact": 153,
+     "excess": 787,
+     "short_pct": 31.3,
+     "excess_pct": 57.5
+    },
+    {
+     "allowance": 10,
+     "short": 243,
+     "exact": 116,
+     "excess": 1010,
+     "short_pct": 17.8,
+     "excess_pct": 73.8
+    },
+    {
+     "allowance": 15,
+     "short": 51,
+     "exact": 49,
+     "excess": 1269,
+     "short_pct": 3.7,
+     "excess_pct": 92.7
+    }
+   ]
+  },
+  {
+   "format_id": "36x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    7.813,
+    17.378,
+    19.643,
+    48.352
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1359,
+     "exact": 9,
+     "excess": 1,
+     "short_pct": 99.3,
+     "excess_pct": 0.1
+    },
+    {
+     "allowance": 10,
+     "short": 1281,
+     "exact": 34,
+     "excess": 54,
+     "short_pct": 93.6,
+     "excess_pct": 3.9
+    },
+    {
+     "allowance": 15,
+     "short": 812,
+     "exact": 72,
+     "excess": 485,
+     "short_pct": 59.3,
+     "excess_pct": 35.4
+    }
+   ]
+  },
+  {
+   "format_id": "60x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    9.012,
+    10.214,
+    36.218
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 892,
+     "exact": 135,
+     "excess": 342,
+     "short_pct": 65.2,
+     "excess_pct": 25.0
+    },
+    {
+     "allowance": 8,
+     "short": 634,
+     "exact": 142,
+     "excess": 593,
+     "short_pct": 46.3,
+     "excess_pct": 43.3
+    },
+    {
+     "allowance": 10,
+     "short": 479,
+     "exact": 123,
+     "excess": 767,
+     "short_pct": 35.0,
+     "excess_pct": 56.0
+    },
+    {
+     "allowance": 15,
+     "short": 207,
+     "exact": 93,
+     "excess": 1069,
+     "short_pct": 15.1,
+     "excess_pct": 78.1
+    }
+   ]
+  },
+  {
+   "format_id": "60x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.273,
+    12.293,
+    13.808,
+    42.857
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1150,
+     "exact": 111,
+     "excess": 108,
+     "short_pct": 84.0,
+     "excess_pct": 7.9
+    },
+    {
+     "allowance": 8,
+     "short": 893,
+     "exact": 141,
+     "excess": 335,
+     "short_pct": 65.2,
+     "excess_pct": 24.5
+    },
+    {
+     "allowance": 10,
+     "short": 736,
+     "exact": 125,
+     "excess": 508,
+     "short_pct": 53.8,
+     "excess_pct": 37.1
+    },
+    {
+     "allowance": 15,
+     "short": 379,
+     "exact": 116,
+     "excess": 874,
+     "short_pct": 27.7,
+     "excess_pct": 63.8
+    }
+   ]
+  },
+  {
+   "format_id": "60x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    11.111,
+    25.558,
+    29.675,
+    78.571
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1367,
+     "exact": 2,
+     "excess": 0,
+     "short_pct": 99.9,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 15,
+     "short": 1230,
+     "exact": 51,
+     "excess": 88,
+     "short_pct": 89.8,
+     "excess_pct": 6.4
+    }
+   ]
+  },
+  {
+   "format_id": "60x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    7.494,
+    8.391,
+    30.495
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 790,
+     "exact": 204,
+     "excess": 375,
+     "short_pct": 57.7,
+     "excess_pct": 27.4
+    },
+    {
+     "allowance": 8,
+     "short": 447,
+     "exact": 184,
+     "excess": 738,
+     "short_pct": 32.7,
+     "excess_pct": 53.9
+    },
+    {
+     "allowance": 10,
+     "short": 291,
+     "exact": 143,
+     "excess": 935,
+     "short_pct": 21.3,
+     "excess_pct": 68.3
+    },
+    {
+     "allowance": 15,
+     "short": 77,
+     "exact": 58,
+     "excess": 1234,
+     "short_pct": 5.6,
+     "excess_pct": 90.1
+    }
+   ]
+  },
+  {
+   "format_id": "60x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.775,
+    8.359,
+    9.385,
+    30.495
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 901,
+     "exact": 195,
+     "excess": 273,
+     "short_pct": 65.8,
+     "excess_pct": 19.9
+    },
+    {
+     "allowance": 8,
+     "short": 549,
+     "exact": 192,
+     "excess": 628,
+     "short_pct": 40.1,
+     "excess_pct": 45.9
+    },
+    {
+     "allowance": 10,
+     "short": 372,
+     "exact": 156,
+     "excess": 841,
+     "short_pct": 27.2,
+     "excess_pct": 61.4
+    },
+    {
+     "allowance": 15,
+     "short": 109,
+     "exact": 71,
+     "excess": 1189,
+     "short_pct": 8.0,
+     "excess_pct": 86.9
+    }
+   ]
+  },
+  {
+   "format_id": "60x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    15.489,
+    29.819,
+    34.207,
+    78.571
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 15,
+     "short": 1362,
+     "exact": 7,
+     "excess": 0,
+     "short_pct": 99.5,
+     "excess_pct": 0.0
+    }
+   ]
+  },
+  {
+   "format_id": "72x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    10.294,
+    12.052,
+    50.888
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 905,
+     "exact": 127,
+     "excess": 337,
+     "short_pct": 66.1,
+     "excess_pct": 24.6
+    },
+    {
+     "allowance": 8,
+     "short": 703,
+     "exact": 117,
+     "excess": 549,
+     "short_pct": 51.4,
+     "excess_pct": 40.1
+    },
+    {
+     "allowance": 10,
+     "short": 584,
+     "exact": 114,
+     "excess": 671,
+     "short_pct": 42.7,
+     "excess_pct": 49.0
+    },
+    {
+     "allowance": 15,
+     "short": 316,
+     "exact": 101,
+     "excess": 952,
+     "short_pct": 23.1,
+     "excess_pct": 69.5
+    }
+   ]
+  },
+  {
+   "format_id": "72x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.128,
+    14.286,
+    16.699,
+    60.714
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1164,
+     "exact": 102,
+     "excess": 103,
+     "short_pct": 85.0,
+     "excess_pct": 7.5
+    },
+    {
+     "allowance": 8,
+     "short": 962,
+     "exact": 116,
+     "excess": 291,
+     "short_pct": 70.3,
+     "excess_pct": 21.3
+    },
+    {
+     "allowance": 10,
+     "short": 843,
+     "exact": 114,
+     "excess": 412,
+     "short_pct": 61.6,
+     "excess_pct": 30.1
+    },
+    {
+     "allowance": 15,
+     "short": 522,
+     "exact": 121,
+     "excess": 726,
+     "short_pct": 38.1,
+     "excess_pct": 53.0
+    }
+   ]
+  },
+  {
+   "format_id": "72x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/2",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    12.5,
+    30.814,
+    35.405,
+    97.802
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 15,
+     "short": 1301,
+     "exact": 28,
+     "excess": 40,
+     "short_pct": 95.0,
+     "excess_pct": 2.9
+    }
+   ]
+  },
+  {
+   "format_id": "72x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    0.0,
+    7.143,
+    8.315,
+    34.615
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 715,
+     "exact": 186,
+     "excess": 468,
+     "short_pct": 52.2,
+     "excess_pct": 34.2
+    },
+    {
+     "allowance": 8,
+     "short": 435,
+     "exact": 182,
+     "excess": 752,
+     "short_pct": 31.8,
+     "excess_pct": 54.9
+    },
+    {
+     "allowance": 10,
+     "short": 290,
+     "exact": 144,
+     "excess": 935,
+     "short_pct": 21.2,
+     "excess_pct": 68.3
+    },
+    {
+     "allowance": 15,
+     "short": 96,
+     "exact": 89,
+     "excess": 1184,
+     "short_pct": 7.0,
+     "excess_pct": 86.5
+    }
+   ]
+  },
+  {
+   "format_id": "72x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": true,
+   "kerf_mm": 3,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    2.128,
+    10.994,
+    12.616,
+    44.231
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1085,
+     "exact": 143,
+     "excess": 141,
+     "short_pct": 79.3,
+     "excess_pct": 10.3
+    },
+    {
+     "allowance": 8,
+     "short": 791,
+     "exact": 190,
+     "excess": 388,
+     "short_pct": 57.8,
+     "excess_pct": 28.3
+    },
+    {
+     "allowance": 10,
+     "short": 599,
+     "exact": 175,
+     "excess": 595,
+     "short_pct": 43.8,
+     "excess_pct": 43.5
+    },
+    {
+     "allowance": 15,
+     "short": 258,
+     "exact": 132,
+     "excess": 979,
+     "short_pct": 18.8,
+     "excess_pct": 71.5
+    }
+   ]
+  },
+  {
+   "format_id": "72x7.5in",
+   "format_origin": "parametric",
+   "offset": "1/3",
+   "reuse": false,
+   "kerf_mm": 0,
+   "reference_only": false,
+   "cases": 1369,
+   "waste_pct": [
+    15.625,
+    34.146,
+    39.294,
+    97.802
+   ],
+   "allowances": [
+    {
+     "allowance": 5,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 8,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 10,
+     "short": 1369,
+     "exact": 0,
+     "excess": 0,
+     "short_pct": 100.0,
+     "excess_pct": 0.0
+    },
+    {
+     "allowance": 15,
+     "short": 1367,
+     "exact": 2,
+     "excess": 0,
+     "short_pct": 99.9,
+     "excess_pct": 0.0
+    }
+   ]
+  }
+ ],
+ "missing_keys": [
+  {
+   "format_id": "48x7.5in",
+   "offset": "1/4",
+   "reuse": true,
+   "kerf_mm": 0
+  },
+  {
+   "format_id": "99x9in",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 0
+  },
+  {
+   "format_id": "48x7.5in",
+   "offset": "1/2",
+   "reuse": true,
+   "kerf_mm": 5
+  },
+  {
+   "format_id": "36x7.5in",
+   "offset": "0",
+   "reuse": false,
+   "kerf_mm": 3
+  }
+ ],
+ "invalid_allowances": [
+  0,
+  7,
+  12,
+  20
+ ]
+}
